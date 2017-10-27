@@ -717,6 +717,7 @@ var RULES = [
         ".lehecai.com",
         ".28.com",
         ".bilibili.tv",
+        ".bilibili.com",
         ".huaban.com",
         ".szhome.com",
         ".miercn.com",
